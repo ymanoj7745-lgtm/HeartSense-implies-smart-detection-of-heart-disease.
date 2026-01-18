@@ -30,4 +30,4 @@ HeartSense is a machine learning project designed to **predict the risk of heart
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/HeartSense.git
+git clone https://github.com/ymanoj7745-lgtm/HeartSense.git
